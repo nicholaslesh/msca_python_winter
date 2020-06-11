@@ -25,3 +25,4 @@ class raf_nq:
                 positions[i] + i == column + ocuppied_rows:
                 return False
         return True
+#am i supposed to make a change to this? because I just did
